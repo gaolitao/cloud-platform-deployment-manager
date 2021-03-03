@@ -163,7 +163,7 @@
 
 [[projects]]
   branch = "starlingx"
-  digest = "1:61b9e4081a60f4879344e118b71c2b6c7379657c00a1ac2b9db6f63d4785fd5b"
+  digest = "1:5e0e69fca95fc16a5ea32b3c2dfd363963b73782180b78a5db08876d18303997"
   name = "github.com/gophercloud/gophercloud"
   packages = [
     ".",
@@ -205,15 +205,13 @@
     "starlingx/inventory/v1/ptp",
     "starlingx/inventory/v1/routes",
     "starlingx/inventory/v1/serviceparameters",
-    "starlingx/inventory/v1/snmpCommunity",
-    "starlingx/inventory/v1/snmpTrapDest",
     "starlingx/inventory/v1/storagebackends",
     "starlingx/inventory/v1/storagetiers",
     "starlingx/inventory/v1/system",
     "starlingx/inventory/v1/volumegroups",
   ]
   pruneopts = "T"
-  revision = "abb0f022084ae9d905c97d757cd5950ec722dd12"
+  revision = "487086136e72f914a885e2f57980132e837a3e5b"
   source = "https://github.com/wind-river/gophercloud"
 
 [[projects]]
@@ -1129,8 +1127,6 @@
     "github.com/gophercloud/gophercloud/starlingx/inventory/v1/ptp",
     "github.com/gophercloud/gophercloud/starlingx/inventory/v1/routes",
     "github.com/gophercloud/gophercloud/starlingx/inventory/v1/serviceparameters",
-    "github.com/gophercloud/gophercloud/starlingx/inventory/v1/snmpCommunity",
-    "github.com/gophercloud/gophercloud/starlingx/inventory/v1/snmpTrapDest",
     "github.com/gophercloud/gophercloud/starlingx/inventory/v1/storagebackends",
     "github.com/gophercloud/gophercloud/starlingx/inventory/v1/storagetiers",
     "github.com/gophercloud/gophercloud/starlingx/inventory/v1/system",
